@@ -1,6 +1,6 @@
   ## 👋 Hello! I'm Bhavani
      
-   🙋‍♀️ About Me
+   ### 🙋‍♀️ About Me
    
    👉 I'm a self taught front end web developer. \
    👉 I love learning new skills. \
@@ -10,8 +10,8 @@
    
   #### you can react me:
   
-  [Linked In](https://www.linkedin.com/in/bhavani-bolloju-9ba34b241)  </br>
-  [e-Mail](bhavani.bolloju@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/bhavani-bolloju-9ba34b241)  </br>
+  [E-Mail](bhavani.bolloju@gmail.com)
   
       
    
